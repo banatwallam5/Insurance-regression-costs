@@ -1,2 +1,2 @@
 # Insurance-regression-costs
-insurance cost prediction
+In this study, we will be using simulated data using population statistics from the U.S. Census Bureau on various demographic factors to predict individual medical costs billed by health insurance. The data set we will be using for our analysis is from the textbook Machine Learning with R by Brett Lantz and is available on Kaggle. To best determine this relationship, we will fit our data into various multiple regression models. The full model will allow us to test the inclusion/exclusion criteria of the individual variables.
